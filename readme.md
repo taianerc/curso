@@ -3,7 +3,7 @@
 <<!DOCTYPE html>
 <html>
 <head>
-	<title> Hello, girls! </title>
+	 Hello, girls!
 </head>
 <body>
  	Our code is political! 
