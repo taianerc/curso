@@ -1,6 +1,6 @@
 #Curso de GitHub e Dev web
 
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	 Hello, girls!
