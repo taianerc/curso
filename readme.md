@@ -6,6 +6,6 @@
 	 Hello, girls!
 </head>
 <body>
- 	Our code is political! 
+ 	<b> Our code is political! </b> 
 </body>
 </html>
